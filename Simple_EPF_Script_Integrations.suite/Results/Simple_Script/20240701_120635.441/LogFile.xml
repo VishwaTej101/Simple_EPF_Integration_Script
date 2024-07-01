@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Simple_Script_script" package="Simple_EPF_Script_Integrations.suite" timestamp="2024-07-01 12:06:35.441 +0530"
+ tests="1"  failures="0" errors="0" time="12.471000">
+  <properties>
+   <property name="RunDate" value="2024-07-01 12:06:35.441 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Simple_Script.script" assertions="1" status="success"  time="12.449">
+  </testcase>
+ </testsuite>
+</testsuites>

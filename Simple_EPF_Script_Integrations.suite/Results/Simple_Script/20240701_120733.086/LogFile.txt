@@ -1,0 +1,8 @@
+﻿2024-07-01 12:07:33.099 +0530	START		Running Simple_Script.script
+2024-07-01 12:07:33.256 +0530	typetext		[windowsKey]r	1	on_simple_script	Simple_Script.script
+2024-07-01 12:07:36.471 +0530	typetext		chrome	3	on_simple_script	Simple_Script.script
+2024-07-01 12:07:37.211 +0530	typetext		[return]	4	on_simple_script	Simple_Script.script
+2024-07-01 12:07:40.239 +0530	imagefound	(TEXT:"Google")	found at (808, 439)	6	on_simple_script	Simple_Script.script
+2024-07-01 12:07:40.248 +0530	LogSuccess		Success	7	on_simple_script	Simple_Script.script
+2024-07-01 12:07:41.072 +0530	EndTestCase		(Duration:"7.964", Errors:"0", Exceptions:"0", StartTime:"2024-07-01 12:07:33 +0530", Successes:"1", TestCase:"Simple_Script.script", Warnings:"0")
+2024-07-01 12:07:41.238 +0530	SUCCESS		Execution Time 0:00:07 Simple_Script.script

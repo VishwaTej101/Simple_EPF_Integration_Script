@@ -1,0 +1,61 @@
+{
+	"entries": [
+		{
+				"message": "Running Simple_Script.script",
+				"identifier": "START",
+				"timestamp": "2024-07-01 12:07:33.099 +0530"
+			},
+		{
+				"handlerName": "on_simple_script",
+				"timestamp": "2024-07-01 12:07:33.256 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "Simple_Script.script",
+				"handlerLine": 1,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_simple_script",
+				"timestamp": "2024-07-01 12:07:36.471 +0530",
+				"message": "chrome",
+				"scriptName": "Simple_Script.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_simple_script",
+				"timestamp": "2024-07-01 12:07:37.211 +0530",
+				"message": "[return]",
+				"scriptName": "Simple_Script.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_simple_script",
+				"timestamp": "2024-07-01 12:07:40.239 +0530",
+				"scriptName": "Simple_Script.script",
+				"message": "found at (808, 439)",
+				"image": "(TEXT:\"Google\")",
+				"handlerLine": 6,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_simple_script",
+				"timestamp": "2024-07-01 12:07:40.248 +0530",
+				"message": "Success",
+				"scriptName": "Simple_Script.script",
+				"handlerLine": 7,
+				"identifier": "LogSuccess"
+			},
+		{
+				"message": "(Duration:\"7.964\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-07-01 12:07:33 +0530\", Successes:\"1\", TestCase:\"Simple_Script.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-07-01 12:07:41.072 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:07 Simple_Script.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-07-01 12:07:41.238 +0530"
+			}
+	],
+	"createdTimestamp": "2024-07-01 12:07:33.106 +0530"
+}

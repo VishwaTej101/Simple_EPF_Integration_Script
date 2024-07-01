@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2024-07-01 12:02:33.788 +0530,"Failure",0:00:00,1,0,0,"20240701_120233.788/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got 'r' and ''",0
+2024-07-01 12:04:32.519 +0530,"Success",0:00:03,0,0,0,"20240701_120432.519/LogFile.txt","","",1
+2024-07-01 12:05:03.216 +0530,"Success",0:00:04,0,0,0,"20240701_120503.216/LogFile.txt","","",1
+2024-07-01 12:06:35.441 +0530,"Success",0:00:12,0,0,0,"20240701_120635.441/LogFile.txt","","",1
+2024-07-01 12:07:33.086 +0530,"Success",0:00:07,0,0,0,"20240701_120733.086/LogFile.txt","","",1

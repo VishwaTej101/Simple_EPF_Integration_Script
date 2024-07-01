@@ -1,0 +1,44 @@
+{
+	"entries": [
+		{
+				"message": "Running Simple_Script.script",
+				"identifier": "START",
+				"timestamp": "2024-07-01 12:05:03.228 +0530"
+			},
+		{
+				"handlerName": "on_simple_script",
+				"timestamp": "2024-07-01 12:05:03.389 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "Simple_Script.script",
+				"handlerLine": 1,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_simple_script",
+				"timestamp": "2024-07-01 12:05:06.605 +0530",
+				"message": "chrome",
+				"scriptName": "Simple_Script.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_simple_script",
+				"timestamp": "2024-07-01 12:05:07.351 +0530",
+				"message": "[return]",
+				"scriptName": "Simple_Script.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"4.151\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-07-01 12:05:03 +0530\", Successes:\"1\", TestCase:\"Simple_Script.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-07-01 12:05:07.389 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:04 Simple_Script.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-07-01 12:05:07.475 +0530"
+			}
+	],
+	"createdTimestamp": "2024-07-01 12:05:03.237 +0530"
+}

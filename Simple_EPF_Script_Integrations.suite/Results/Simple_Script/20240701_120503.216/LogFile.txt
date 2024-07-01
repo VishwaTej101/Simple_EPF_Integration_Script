@@ -1,0 +1,6 @@
+﻿2024-07-01 12:05:03.228 +0530	START		Running Simple_Script.script
+2024-07-01 12:05:03.389 +0530	typetext		[windowsKey]r	1	on_simple_script	Simple_Script.script
+2024-07-01 12:05:06.605 +0530	typetext		chrome	3	on_simple_script	Simple_Script.script
+2024-07-01 12:05:07.351 +0530	typetext		[return]	4	on_simple_script	Simple_Script.script
+2024-07-01 12:05:07.389 +0530	EndTestCase		(Duration:"4.151", Errors:"0", Exceptions:"0", StartTime:"2024-07-01 12:05:03 +0530", Successes:"1", TestCase:"Simple_Script.script", Warnings:"0")
+2024-07-01 12:05:07.475 +0530	SUCCESS		Execution Time 0:00:04 Simple_Script.script

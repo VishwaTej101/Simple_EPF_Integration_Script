@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Simple_Script_script" package="Simple_EPF_Script_Integrations.suite" timestamp="2024-07-01 12:02:33.788 +0530"
+ tests="1"  failures="1" errors="0" time="0.463000">
+  <properties>
+   <property name="RunDate" value="2024-07-01 12:02:33.788 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Simple_Script.script" assertions="1" status="failure"  time="0.349">
+    <failure type="FAILURE" message="SenseTalk Runtime Exception: Invalid operands for addition: expected numbers, dates and/or lists; got &apos;r&apos; and &apos;&apos; -- Execution Time 0:00:00 Simple_Script.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

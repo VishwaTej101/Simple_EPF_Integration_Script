@@ -1,0 +1,1 @@
+2024-07-01 12:02:33.788 +0530,Failure,0:00:00,1,0,0,20240701_120233.788/LogFile.txt,"","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got 'r' and ''",0

@@ -1,0 +1,11 @@
+﻿typetext windowsKey, r
+wait 3
+typetext chrome
+typetext return
+wait 2
+if ImageFound(text:"Google")
+	logsuccess "Success"
+else
+	LogError "Not success"
+	
+end if
